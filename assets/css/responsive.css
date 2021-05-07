@@ -1,0 +1,17 @@
+@media (max-width: 420px) {
+  body {
+    font-size: 14px
+  }
+  .content, .section-notice {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 1rem 1rem 0
+  }
+  .section-notice {
+    padding-bottom: .25rem
+  }
+  nav li {
+    margin-bottom: 1rem;
+    display: block
+  }
+}
