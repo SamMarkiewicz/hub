@@ -25,7 +25,7 @@ Je ne suis pas un apôtre de l'effet whaou, des huiles magiques et des incantati
 
 Aujourd'hui, j’accompagne en tant qu’indépendant ces entreprises dans la conception de leurs applications/sites :
 **Norsys, INGroupe, 9troisquarts, LesTilleuls.**
-<a href="https://samuelmarkiewicz.typeform.com/to/s0HUmMLQ" class="button">On prend contact ?</a>
+<a href="/contact" class="button">On prend contact ?</a>
 * * *
 ## A propos de moi
 Je suis indépendant, et père d’une petite fille.
@@ -33,3 +33,5 @@ J’exerce en parallèle deux professions ([je aussi illustrateur](http://sam-il
 Un choix qui n’aurait pas été possible sans ce statut.
 
 Je suis un coureur régulier, je pratique la méditation, et [j’écris sur ma vie d’entrepreneur et mes deux professions ici](/).
+
+<div class="typeform-widget" data-url="https://form.typeform.com/to/s0HUmMLQ?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
