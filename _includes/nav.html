@@ -1,9 +1,18 @@
 <nav>
   <ul>
-    <li><a href="/a-propos">A Propos</a></li>
+    {% for nav in site.data.navs %}
+      <li>
+        <a href="{{nav.link}}" target="_blank">
+          {{nav.name}}
+        </a>
+      </li>
+    {% endfor %}
+    <!-- <li><a href="/a-propos">A Propos</a></li>
+    <li><a href="/posts">Blog</a></li>
     <li><a href="/contact" target="_blank">Contact</a></li>
     <li><a href="https://mobile.twitter.com/sam_mrkz" target="_blank">Twitter</a></li>
     <li><a href="https://www.linkedin.com/in/samuel-markiewicz/" target="_blank">LinkedIn</a></li>
-    <li><a href="https://medium.com/@sammarkiewicz" target="_blank">Medium</a></li>
+    <li><a href="https://medium.com/@sammarkiewicz" target="_blank">Medium</a></li> -->
   </ul>
+  <p>© Samuel Markiewicz 2018 - {{ 'now' | date: "%Y" }}</p>
 </nav>

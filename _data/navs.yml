@@ -1,0 +1,14 @@
+- name: UX
+  link: /ux
+
+- name: Illustrations
+  link: https://sam-illustrations.com
+
+- name: Blog
+  link: /posts
+
+- name: A Propos
+  link: /a-propos
+
+- name: Contact
+  link: mailto:hey@sammarkiewicz.com

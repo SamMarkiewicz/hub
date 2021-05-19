@@ -1,10 +1,7 @@
 ---
-layout: default
-title: Accueil
+layout: home
+title: Hello !
 ---
 
-# Vous n'aimez pas les usines à gaz ?
-**Ca tombe bien, vos utilisateurs non plus.**
-Parce qu’aussi joli et innovant qu’il soit un produit inutilisable est inutile, j’audit, j’accompagne et j’aide à l’amélioration des parcours de vos applications métiers ou de vos sites.   
-
-<a href="/a-propos" class="button primary">Je veux en savoir plus</a>
+Je m'appelle **Samuel Markiewicz**, je suis un  designer indépendant basé à Lille.
+Je partage mes activités entre [l’accompagnement à la conception d’interfaces](/ux) et [l'illustration](https://sam-illustrations.com){:target="_blank"}.

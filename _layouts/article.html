@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  {% include head.html %}
+  <body>
+    <!-- {% include banner.html %} -->
+    <div class="content">
+      {% include header.html %}
+      <article>
+        <h1>{{ page.title }}</h1>
+        <p class="date">
+          Publié le {{ page.date | date: '%D' }}
+        </p>
+        {% if page.intro == nil %}
+        {% else %}
+          <p class="intro">
+            {{ page.intro }}
+          </p>
+        {% endif %}
+
+        {{ content }}
+      </article>
+      {% include post-comment.html %}
+      <hr>
+      <h4>
+        Vous pouvez aussi me trouver ici :
+      </h4>
+      {% include social.html %}
+      {% include nav.html %}
+    </div>
+  </body>
+  </html>

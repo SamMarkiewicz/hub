@@ -1,0 +1,15 @@
+- name: linkedin
+  link: https://www.linkedin.com/in/samuel-markiewicz/
+  type: fab
+
+- name: twitter
+  link: https://twitter.com/sam_mrkz
+  type: fab
+
+- name: instagram
+  link: https://www.instagram.com/sammarkiewicz/
+  type: fab
+
+- name: paper-plane
+  link: mailto:{{ site.email | encode_email }}
+  type: fas

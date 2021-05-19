@@ -1,0 +1,15 @@
+---
+layout: posts
+title: Blog
+description: Ensemble des articles publiés par Samuel Markiewicz, conception d'interfaces utilisateurs et illustrateur basé à Lille et remote
+intro: Vous retrouverez ici toutes les notes et articles que j'ai publié.
+---
+
+<ul class="list-posts">
+  {% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.tags | array_to_sentence_string }}</p
+    </li>
+  {% endfor %}
+</ul>

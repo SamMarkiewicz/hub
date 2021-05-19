@@ -1,0 +1,13 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+  <title>{{ site.title }} | {{ page.title }}</title>
+  <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+  <link rel="stylesheet" href="https://use.typekit.net/dkb5dpu.css">
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="manifest" href="site.webmanifest">
+  <script src="https://kit.fontawesome.com/046beb0af8.js" crossorigin="anonymous"></script>
+</head>
