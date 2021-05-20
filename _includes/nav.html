@@ -2,7 +2,7 @@
   <ul>
     {% for nav in site.data.navs %}
       <li>
-        <a href="{{nav.link}}" target="_blank">
+        <a href="{{nav.link}}" target="_{{nav.target}}">
           {{nav.name}}
         </a>
       </li>

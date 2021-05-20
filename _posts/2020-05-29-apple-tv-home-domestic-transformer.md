@@ -26,5 +26,5 @@ The solution proposed by Gary Chang in that sense is a must-watch.
 
 **More on the subject:**
 
-* [YouTube](https://youtu.be/WB2-2j9e4co "https://youtu.be/WB2-2j9e4co") -> if you don't have/want an Apple TV+ subscription, there is this video on YouTube
-* [Designboom video](https://www.designboom.com/architecture/gary-chang-on-urbanism-and-his-metamorphic-apartment/ "https://www.designboom.com/architecture/gary-chang-on-urbanism-and-his-metamorphic-apartment/") -> More pictures, plans, etc.
+* [YouTube](https://youtu.be/WB2-2j9e4co "https://youtu.be/WB2-2j9e4co") : if you don't have/want an Apple TV+ subscription, there is this video on YouTube
+* [Designboom video](https://www.designboom.com/architecture/gary-chang-on-urbanism-and-his-metamorphic-apartment/ "https://www.designboom.com/architecture/gary-chang-on-urbanism-and-his-metamorphic-apartment/") : More pictures, plans, etc.

@@ -10,10 +10,16 @@
         <p class="date">
           Publié le {{ page.date | date: '%D' }}
         </p>
+        {% if page.update == nil %}
+        {% else %}
+          <p class="update">
+            {{ page.update | newline_to_br }}
+          </p>
+        {% endif %}
         {% if page.intro == nil %}
         {% else %}
           <p class="intro">
-            {{ page.intro }}
+            {{ page.intro | newline_to_br }}
           </p>
         {% endif %}
 

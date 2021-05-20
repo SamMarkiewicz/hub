@@ -1,14 +1,19 @@
 - name: UX
   link: /ux
+  target: self
 
 - name: Illustrations
   link: https://sam-illustrations.com
+  target: blank
 
 - name: Blog
   link: /posts
+  target: self
 
 - name: A Propos
   link: /a-propos
+  target: self
 
 - name: Contact
   link: mailto:hey@sammarkiewicz.com
+  target: self
