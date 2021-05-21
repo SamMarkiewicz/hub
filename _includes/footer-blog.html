@@ -1,0 +1,17 @@
+<hr>
+<section>
+  <h4>
+    A propos
+  </h4>
+  <p>
+    Je m’appelle Samuel Markiewicz <a href="https://twitter.com/sam_mrkz" target="_blank">(@sam_mrkz)</a>, je suis un designer indépendant basé à Lille.
+    Je partage mes activités entre <a href="/ux" target="_self">l’accompagnement à la conception d’interfaces</a> et <a href="https://sam-illustrations.com" target="_blank">l’illustration</a>.
+  </p>
+</section>
+<section class="social">
+  {% for social in site.data.socials %}
+    <a href="{{social.link}}" target="_blank">
+      <i class="{{social.type}} fa-{{social.name}}"></i>
+    </a>
+  {% endfor %}
+</section>
