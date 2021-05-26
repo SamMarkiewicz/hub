@@ -4,6 +4,7 @@ tags:
   - notes
   - tech
 layout: article
+image: https://i.pinimg.com/originals/e1/96/ef/e196efc5095e5498d0619524f2f97fea.jpg
 title: 'Apple TV Home : Domestic Transformer'
 description: A post about Gary Chang's Domestic Transformer episode on Apple TV
 intro:

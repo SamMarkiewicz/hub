@@ -8,7 +8,6 @@ tags:
   - blog
 
 ---
-![5 ways to spark creativity - Samuel Markiewicz, Illustrator](/assets/images/5-ways-to-spark-creativity.png "5 ways to spark creativity - Samuel Markiewicz, Illustrator")
 
 _According to someone who frequently struggles with it._
 
