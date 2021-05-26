@@ -15,8 +15,8 @@ layout: null
       <url>{{ site.url }}/{{ site.title_image}}</url>
       <title>Samuel Markiewicz</title>
       <link>{{ site.url }}/a-propos</link>
-      <width>200</width>
-      <height>200</height>
+      <width>144</width>
+      <height>144</height>
       <description>{{ site.description | xml_escape }}</description>
     </image>
     {% for post in site.posts limit:10 %}
