@@ -7,7 +7,7 @@
   target: blank
 
 - name: Blog
-  link: /posts
+  link: /blog
   target: self
 
 - name: A Propos
